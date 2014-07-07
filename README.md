@@ -28,6 +28,9 @@ Hands-on for book Discover Meteor
 * git pull
 * git remote
 
+** Slides: **
+
+* [Learning Meteor: Using Git & GitHub](https://docs.google.com/presentation/d/11JMuwoN7Ns1moK3WrAVXvokFKSgz_dj7InMr84DExIQ/edit?usp=sharing)
 
 **Resources:**
 
