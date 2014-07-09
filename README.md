@@ -5,7 +5,22 @@ Hands-on for book Discover Meteor
 
 ---
 
-###Using Git & GitHub
+###Getting Started (Ahmed)
+
+* Join the Meetup Group - [bit.ly/meteorjssg](bit.ly/meteorjssg)
+* Join the Facebook Group - [on.fb.me/JzSisE](on.fb.me/JzSisE)
+* Feedback here: [http://bit.ly/feedbacklmt](http://bit.ly/feedbacklmt)
+
+** Slides **
+
+* [Introduction](http://bit.ly/learnmtsg­)
+
+
+### Templates (Max)
+
+$ git checkout #1
+
+###Using Git & GitHub (ken)
 
 **Global setup:**
 
