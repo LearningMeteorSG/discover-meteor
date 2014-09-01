@@ -10,4 +10,3 @@ iron:router
 sacha:spin
 accounts-password
 mrt:accounts-ui-bootstrap-dropdown@0.8.3
-accounts-facebook
